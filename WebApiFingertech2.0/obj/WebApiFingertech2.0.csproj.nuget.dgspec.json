@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\silvio.capelo\\Desktop\\WebApiFingertech2.0\\WebApiFingertech2.0\\WebApiFingertech2.0.csproj": {}
+    "C:\\Users\\Suporte4\\Desktop\\Stuff\\WebApiBeta2.0\\WebApiFingertech2.0\\WebApiFingertech2.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\silvio.capelo\\Desktop\\WebApiFingertech2.0\\WebApiFingertech2.0\\WebApiFingertech2.0.csproj": {
+    "C:\\Users\\Suporte4\\Desktop\\Stuff\\WebApiBeta2.0\\WebApiFingertech2.0\\WebApiFingertech2.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\silvio.capelo\\Desktop\\WebApiFingertech2.0\\WebApiFingertech2.0\\WebApiFingertech2.0.csproj",
+        "projectUniqueName": "C:\\Users\\Suporte4\\Desktop\\Stuff\\WebApiBeta2.0\\WebApiFingertech2.0\\WebApiFingertech2.0.csproj",
         "projectName": "WebApiFingertech2.0",
-        "projectPath": "C:\\Users\\silvio.capelo\\Desktop\\WebApiFingertech2.0\\WebApiFingertech2.0\\WebApiFingertech2.0.csproj",
-        "packagesPath": "C:\\Users\\silvio.capelo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\silvio.capelo\\Desktop\\WebApiFingertech2.0\\WebApiFingertech2.0\\obj\\",
+        "projectPath": "C:\\Users\\Suporte4\\Desktop\\Stuff\\WebApiBeta2.0\\WebApiFingertech2.0\\WebApiFingertech2.0.csproj",
+        "packagesPath": "C:\\Users\\Suporte4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Suporte4\\Desktop\\Stuff\\WebApiBeta2.0\\WebApiFingertech2.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\silvio.capelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Suporte4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,6 +59,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -67,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
